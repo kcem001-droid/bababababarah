@@ -1,5 +1,5 @@
---@name Projectiles, damage and ETC
---@author AstricUnion (Base) / vertihluy
+--@name fart laser
+--@author something is coming in 3 days
 --@shared
 --@include https://raw.githubusercontent.com/PEDROWELES/Gnet/refs/heads/main/laser_ftimer.lua as ftimers
 --@include https://raw.githubusercontent.com/PEDROWELES/Gnet/refs/heads/main/laser_holo.lua as holos
